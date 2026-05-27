@@ -100,19 +100,19 @@ content:
   - title: Compétences
     layout: text
     content: |
-      - Développement Backend : PHP, Python, Django, Flask, FastAPI
-      - Développement Frontend : TypeScript, Vue.js, React, React Native
-      - DevOps : Docker, Docker Compose, Gitlab CI/CD, Github Actions
-      - Lead : gestion de projet, management, tech lead
-      - Outils organisationnels : Méthodologie Agile, Github Copilot
-      - Points forts: prototypage, refactoring, qualité du code
+      - **Développement Backend** : PHP, Python, Django, Flask, FastAPI**
+      - **Développement Frontend** : TypeScript, Vue.js, React, React Native**
+      - **DevOps** : Docker, Docker Compose, Gitlab CI/CD, Github Actions**
+      - **Lead** : gestion de projet, management, tech lead**
+      - **Outils organisationnels** : Méthodologie Agile, Github Copilot**
+      - **Points forts** : prototypage, refactoring, qualité du code**
 
   - title: Formations
     layout: text
     content: |
-      - Engineer's degree, ECE Paris.Lyon (2007)
-      - Master's degree, CNAM (2007)
-      - Certificat de compétence Analyste en cybersécurité, CNAM Bretagne (2019)
+      - **Engineer's degree**, ECE Paris.Lyon (2007)
+      - **Master's degree**, CNAM (2007)
+      - **Certificat de compétence Analyste en cybersécurité**, CNAM Bretagne (2019)
 
   - title: Portfolio
     layout: list
@@ -121,12 +121,14 @@ content:
         title: Benergy2
         link: https://github.com/ben-roadley/benergy2
         description: |
-          App de fitness pour l’entraînement à domicile — suivi des séances, journalisation des entraînements, live workouts.
+          - App de fitness pour l’entraînement à domicile — suivi des séances, journalisation des entraînements, live workouts.
+          - Docker Compose, Django Rest Framework, Vue.js, React Native, PostgreSQL, CI/CD GitHub Actions.
       - layout: top-middle
         title: Medina Incident Router
         link: https://github.com/ben-roadley/medina-incident-router
         description: |
-          Backend AWS serverless illustrant une architecture Pub/Sub, inspiré par Medina Station (The Expanse).
+          - Backend AWS serverless illustrant une architecture Pub/Sub, inspiré par Medina Station (The Expanse).
+          - AWS Lambda, API Gateway, DynamoDB, EventBridge.
 
 
 # Footer
