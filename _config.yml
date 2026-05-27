@@ -8,21 +8,20 @@ version: 2
 # Personal info
 name: Benjamin Roadley
 title: Développeur Fullstack Senior
-email: ''
-website: ben-roadley.github.io
+# email: ''
+website: https://www.malt.fr/profile/benjaminroadley
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 github_username: ben-roadley
 linkedin_username: benjaminroadley
-malt_url: https://www.malt.fr/profile/benjaminroadley
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Malt
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.malt.fr/profile/benjaminroadley
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -127,7 +126,7 @@ content:
     content: |
       - Engineer's degree, ECE Paris.Lyon (2007)
       - Master's degree, CNAM (2007)
-      - Certificat de compétence Analyste en cybersécurité, CNAM Bretagne (en cours)
+      - Certificat de compétence Analyste en cybersécurité, CNAM Bretagne (2019)
 
 # Footer
 footer_show_references: true
