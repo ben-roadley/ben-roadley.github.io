@@ -26,6 +26,12 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Vous avez besoin de reprendre une application existante, lancer rapidement un prototype fiable, ou faire évoluer un produit web devenu difficile à maintenir ?
@@ -47,20 +53,19 @@ about_content: | # this will include new lines to allow paragraphs
   J’utilise également l’IA de manière professionnelle, notamment avec GitHub Copilot, pour accélérer le développement et améliorer la qualité des livrables.
 
 content:
-
-  - title: Recommandations
-    layout: text
-    content: |
-      **Nicolas Thuilier** (Groupama Centre Manche)  
-      "Benjamin a travaillé quatre mois au sein de notre équipe, principalement sur des sujets back‑end où il a apporté une contribution de qualité..."
-
-      **Sébastien Najjar** (Padam Mobility)  
-      "C'était un plaisir de collaborer avec Benjamin. Curieux, compétent, humble, ça sera un excellent membre de votre équipe..."
-
-  - title: Compétences
-    layout: text
-    content: |
-      Python, Django, Django Rest Framework, React.js, Vue.js, Docker, docker-compose, CI/CD, Github Actions, Gitlab CI/CD, JavaScript, Typescript, PHP, REST APIs, Flask, PostgreSQL, MySQL, E-commerce, SAAS, Refactoring, Modernisation du SI, Méthode agile, AWS
+  - title: Portfolio
+    layout: list
+    content:
+      - layout: top-middle
+        title: Benergy2
+        link: https://github.com/ben-roadley/benergy2
+        description: |
+          App de fitness pour l’entraînement à domicile — suivi des séances, journalisation des entraînements, live workouts.
+      - layout: top-middle
+        title: Medina Incident Router
+        link: https://github.com/ben-roadley/medina-incident-router
+        description: |
+          Backend AWS serverless illustrant une architecture Pub/Sub, inspiré par Medina Station (The Expanse).
 
   - title: Expériences significatives
     layout: list
@@ -102,27 +107,26 @@ content:
         description: |
           Conception, développement, recettage de logiciels métiers, développement durable, conformité.
 
+  - title: Compétences
+    layout: text
+    content: |
+      Python, Django, Django Rest Framework, React.js, Vue.js, Docker, docker-compose, CI/CD, Github Actions, Gitlab CI/CD, JavaScript, Typescript, PHP, REST APIs, Flask, PostgreSQL, MySQL, E-commerce, SAAS, Refactoring, Modernisation du SI, Méthode agile, AWS
+
+  - title: Recommandations
+    layout: text
+    content: |
+      **Nicolas Thuilier** (Groupama Centre Manche)  
+      "Benjamin a travaillé quatre mois au sein de notre équipe, principalement sur des sujets back‑end où il a apporté une contribution de qualité..."
+
+      **Sébastien Najjar** (Padam Mobility)  
+      "C'était un plaisir de collaborer avec Benjamin. Curieux, compétent, humble, ça sera un excellent membre de votre équipe..."
+
   - title: Formations
     layout: text
     content: |
       - Engineer's degree, ECE Paris.Lyon (2007)
       - Master's degree, CNAM (2007)
       - Certificat de compétence Analyste en cybersécurité, CNAM Bretagne (2019)
-
-  - title: Portfolio
-    layout: list
-    content:
-      - layout: top-middle
-        title: Benergy2
-        link: https://github.com/ben-roadley/benergy2
-        description: |
-          App de fitness pour l’entraînement à domicile — suivi des séances, journalisation des entraînements, live workouts.
-      - layout: top-middle
-        title: Medina Incident Router
-        link: https://github.com/ben-roadley/medina-incident-router
-        description: |
-          Backend AWS serverless illustrant une architecture Pub/Sub, inspiré par Medina Station (The Expanse).
-
 
 # Footer
 footer_show_references: true
