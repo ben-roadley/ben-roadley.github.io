@@ -5,3 +5,4 @@ theme: jekyll-theme-minimal
 url: "https://ben-roadley.github.io"
 github:
   is_project_page: false
+logo: "/assets/profile.jpg"
