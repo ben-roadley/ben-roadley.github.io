@@ -100,7 +100,12 @@ content:
   - title: Compétences
     layout: text
     content: |
-      Python, Django, Django Rest Framework, React.js, Vue.js, Docker, docker-compose, CI/CD, Github Actions, Gitlab CI/CD, JavaScript, Typescript, PHP, REST APIs, Flask, PostgreSQL, MySQL, E-commerce, SAAS, Refactoring, Modernisation du SI, Méthode agile, AWS
+      - Développement Backend : PHP, Python, Django, Flask, FastAPI
+      - Développement Frontend : TypeScript, Vue.js, React, React Native
+      - DevOps : Docker, Docker Compose, Gitlab CI/CD, Github Actions
+      - Lead : gestion de projet, management, tech lead
+      - Outils organisationnels : Méthodologie Agile, Github Copilot
+      - Points forts: prototypage, refactoring, qualité du code
 
   - title: Formations
     layout: text
