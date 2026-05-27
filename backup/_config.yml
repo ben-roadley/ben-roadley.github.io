@@ -1,0 +1,11 @@
+title: "Benjamin Roadley – Développeur Fullstack Senior"
+description: "Portfolio, CV et projets open source de Benjamin Roadley, développeur fullstack Python/Django/React/Vue.js."
+description: |
+  Portfolio, CV et projets open source de Benjamin Roadley, développeur fullstack Python/Django/React/Vue.js.
+  Stack : Python, Django, React, Vue.js, Docker
+author: "Benjamin Roadley"
+theme: jekyll-theme-minimal
+url: "https://ben-roadley.github.io"
+github:
+  is_project_page: false
+logo: "/assets/profile.jpg"
