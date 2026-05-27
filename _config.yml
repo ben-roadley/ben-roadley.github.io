@@ -9,3 +9,7 @@ url: "https://ben-roadley.github.io"
 github:
   is_project_page: false
 logo: "/assets/profile.jpg"
+social:
+  malt: "https://www.malt.fr/profile/benjaminroadley"
+  linkedin: "https://www.linkedin.com/in/benjaminroadley/"
+  github: "https://github.com/ben-roadley"
