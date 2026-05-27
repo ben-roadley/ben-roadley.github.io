@@ -131,9 +131,41 @@ content:
           - **Stack:** AWS Lambda, API Gateway, DynamoDB, EventBridge.
 
 
+  - title: CV Détaillé
+    layout: list
+    content:
+      - layout: left
+        title: GroupamaGCM
+        sub_title: Développeur full stack Python / Django / Vue.js / Docker
+        caption: nov. 2025 – avr. 2026 (5 mois), Le Mans
+        description: |
+          **Contexte**
+          
+          Groupama CGM est un acteur du secteur banque / assurance. La mission s’inscrivait dans un projet de modernisation d’un logiciel interne, avec une migration progressive d’une base PHP vers une application plus moderne en Django / Vue.js. Les enjeux portaient sur la maintenabilité, la fiabilité, l’accélération des futures refontes et la simplification du développement comme de la mise en production. J’intervenais au sein d’une équipe interne pluridisciplinaire, avec un rôle de développeur full stack à dominante backend, sur la refonte du socle, l’authentification, l’outillage Python et la conteneurisation.
+
+          **Réalisations**
+          
+          1/ Ecriture d'un batch en Python
+          - Développement d'un batch (script) en langage Python pour intégrer mensuellement des données de facturation fournisseur
+          - tests métier et livraison
+
+          2/ Refonte progressive d’un logiciel interne
+          - Participation à la modernisation de l’application avec migration progressive d’une base PHP vers une SPA Django / Vue.js, en veillant à la continuité fonctionnelle et à l’amélioration de la maintenabilité.
+          
+          3/ Création d'un template d'application
+          - A partir du projet précédent, création d'un "template", projet presque vide avec authentification custom
+          - Objectif: que les développements futurs puissent se concentrer sur le code métier, avec une stack moderne Django / Vue.js aisée à prendre en main par des devs juniors
+          - Réalisation de la partie conteneurisation/orchestration et CI/CD 
+          - Formation de l'équipe sur le nouveau template
+          
+          4/ Refonte risquée d'un logiciel à fort enjeu
+          - Un logiciel très important pour Groupama GCM avait besoin d'être reécrit, et ce au plus vite
+          - Réécriture de A à Z en code python, 100% couvert par des tests unitaires, documenté et maintenable
+          - Tests métier, "nettoyage" des données, livraison
+          - Refonte très rapide grâce à l'appui stratégique de l'outil IA
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: Contactez-moi sur LinkedIn ou Malt pour échanger sur votre projet !
 
 # Build settings
 remote_theme: sproogen/resume-theme
