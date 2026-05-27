@@ -100,12 +100,12 @@ content:
   - title: Compétences
     layout: text
     content: |
-      - **Développement Backend** : PHP, Python, Django, Flask, FastAPI**
-      - **Développement Frontend** : TypeScript, Vue.js, React, React Native**
-      - **DevOps** : Docker, Docker Compose, Gitlab CI/CD, Github Actions**
-      - **Lead** : gestion de projet, management, tech lead**
-      - **Outils organisationnels** : Méthodologie Agile, Github Copilot**
-      - **Points forts** : prototypage, refactoring, qualité du code**
+      - **Développement Backend** : PHP, Python, Django, Flask, FastAPI
+      - **Développement Frontend** : TypeScript, Vue.js, React, React Native
+      - **DevOps** : Docker, Docker Compose, Gitlab CI/CD, Github Actions
+      - **Lead** : gestion de projet, management, tech lead
+      - **Outils organisationnels** : Méthodologie Agile, Github Copilot
+      - **Points forts** : prototypage, refactoring, qualité du code, industrialisation du delivery, documentation, tests, architecture évolutive
 
   - title: Formations
     layout: text
@@ -122,13 +122,13 @@ content:
         link: https://github.com/ben-roadley/benergy2
         description: |
           - App de fitness pour l’entraînement à domicile — suivi des séances, journalisation des entraînements, live workouts.
-          - Docker Compose, Django Rest Framework, Vue.js, React Native, PostgreSQL, CI/CD GitHub Actions.
+          - **Stack:** Docker Compose, Django Rest Framework, Vue.js, React Native, PostgreSQL, CI/CD GitHub Actions.
       - layout: top-middle
         title: Medina Incident Router
         link: https://github.com/ben-roadley/medina-incident-router
         description: |
           - Backend AWS serverless illustrant une architecture Pub/Sub, inspiré par Medina Station (The Expanse).
-          - AWS Lambda, API Gateway, DynamoDB, EventBridge.
+          - **Stack:** AWS Lambda, API Gateway, DynamoDB, EventBridge.
 
 
 # Footer
