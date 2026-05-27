@@ -96,3 +96,11 @@ Python, Django, Django Rest Framework, React.js, Vue.js, Docker, docker-compose,
 - Engineer's degree, ECE Paris.Lyon (2007)
 - Master's degree, CNAM (2007)
 - Certificat de compétence Analyste en cybersécurité, CNAM Bretagne (en cours)
+
+---
+
+## Liens
+
+- [Malt](https://www.malt.fr/profile/benjaminroadley)
+- [LinkedIn](https://www.linkedin.com/in/benjaminroadley/)
+- [GitHub](https://github.com/ben-roadley)
