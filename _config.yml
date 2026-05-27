@@ -134,6 +134,7 @@ content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
+references_title: "Snowflakes fell from the sky like tiny pieces of a snowman who had stood on a landmine." - Alan Partridge
 
 # Build settings
 remote_theme: sproogen/resume-theme
