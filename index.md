@@ -3,15 +3,6 @@ layout: default
 title: "Benjamin Roadley – Développeur Fullstack Senior"
 ---
 
-# Benjamin Roadley
-
-**Développeur Fullstack Senior**  
-Le Mans, FR
-
-Stack : Python, Django, React, Vue.js, Docker
-
----
-
 ## À propos
 
 Vous avez besoin de reprendre une application existante, lancer rapidement un prototype fiable, ou faire évoluer un produit web devenu difficile à maintenir ?
