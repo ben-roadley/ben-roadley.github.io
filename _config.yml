@@ -186,6 +186,8 @@ content:
           3/ Structuration de données avec xAPI
           - Conception et implémentation d’une architecture de données basée sur xAPI pour suivre les interactions des utilisateurs avec les outils collaboratifs, facilitant ainsi l’analyse et l’amélioration continue du projet.
 
+          ---
+
       - layout: left
         title: Padam Mobility
         sub_title: Développeur Django puis Lead d’équipe produit
@@ -207,6 +209,8 @@ content:
           3/ Expérimentations véhicule autonome
           - Prototypage ponctuel avec l'équipe AV (véhicules autonomes)
           - Architecture événementielle
+
+          ---
         
       - layout: left
         title: Lengow
@@ -221,6 +225,8 @@ content:
 
           - Ajout de 2 nouveaux connecteurs (marketplaces)
           - Participation aux revues de code et identification de bugs dans le code existant.
+
+          ---
 
       - layout: left
         title: Deenova
@@ -242,6 +248,8 @@ content:
           
           2/ Qualité logicielle et déploiement progressif
           - Support, stabilisation, rédaction de documentation technique, mise en place de tests unitaires et accompagnement du déploiement progressif de la solution chez le client afin de sécuriser la montée en usage.
+
+          ---
 
       - layout: left
         title: Verteego
