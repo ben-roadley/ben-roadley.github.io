@@ -57,11 +57,6 @@ content:
       **Sébastien Najjar** (Padam Mobility)  
       "C'était un plaisir de collaborer avec Benjamin. Curieux, compétent, humble, ça sera un excellent membre de votre équipe..."
 
-  - title: Compétences
-    layout: text
-    content: |
-      Python, Django, Django Rest Framework, React.js, Vue.js, Docker, docker-compose, CI/CD, Github Actions, Gitlab CI/CD, JavaScript, Typescript, PHP, REST APIs, Flask, PostgreSQL, MySQL, E-commerce, SAAS, Refactoring, Modernisation du SI, Méthode agile, AWS
-
   - title: Expériences significatives
     layout: list
     content:
@@ -101,6 +96,11 @@ content:
         caption: janv. 2008 – janv. 2014 (6 ans), Paris
         description: |
           Conception, développement, recettage de logiciels métiers, développement durable, conformité.
+
+  - title: Compétences
+    layout: text
+    content: |
+      Python, Django, Django Rest Framework, React.js, Vue.js, Docker, docker-compose, CI/CD, Github Actions, Gitlab CI/CD, JavaScript, Typescript, PHP, REST APIs, Flask, PostgreSQL, MySQL, E-commerce, SAAS, Refactoring, Modernisation du SI, Méthode agile, AWS
 
   - title: Formations
     layout: text
