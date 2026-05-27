@@ -198,8 +198,10 @@ content:
           1/ Refactoring et structuration technique d’un produit SaaS
           - Intervention sur le backend Django pour faire évoluer le produit, améliorer la qualité du code, reprendre certains pans de l’existant et renforcer la maintenabilité globale de l’application.
           - La réécriture la plus notable a pris deux mois de travail en autonomie pour réécrire du "code mort" dans la partie réservation.
+          
           2/ Accompagnement d’équipe et amélioration du delivery
           - Participation à l’onboarding, à l’accompagnement des développeurs et à la coordination avec les équipes produit et tech afin de fluidifier l’exécution et de mieux structurer le delivery.
+          
           3/ Expérimentations véhicule autonome
           - Prototypage ponctuel avec l'équipe AV (véhicules autonomes)
           - Architecture événementielle
@@ -235,6 +237,7 @@ content:
           - Modélisation BDD (PostgreSQL)
           - Proposition de généralisation de l'architecture logicielle pour inclure tous les automates d'une pharmacie
           - Développement MVP
+          
           2/ Qualité logicielle et déploiement progressif
           - Support, stabilisation, rédaction de documentation technique, mise en place de tests unitaires et accompagnement du déploiement progressif de la solution chez le client afin de sécuriser la montée en usage.
 
@@ -251,10 +254,12 @@ content:
 
           1/ Développement d'un logiciel d'édition de rapport de développement durable
           - Participation au développement en C# / .Net d'une application qui génère un rapport sommaire à partir d'un questionnaire
+          
           2/ Développement d'un logiciel de bilan carbone
           - Historiquement, Verteego était une des premières entreprises à proposer un tel logiciel
           - Co-développement à partir de la méthodologie ADEME
           - Stack: PHP / Codeigniter / PostgreSQL / Javascript / jQuery
+          
           3/ Développement en autonomie de Verteego REACh
           - Cahier des charges, développement et pilotage sur un an d'un logiciel de mise en conformité REACh (loi européenne)
           - Pour le compte d'une entreprise du groupe Safran, avec données secret défense
