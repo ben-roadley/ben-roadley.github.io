@@ -61,7 +61,13 @@ content:
     layout: list
     content:
       - layout: left
-        title: GroupamaGCM
+        title: m Lego
+        sub_title: Développeur full stack Python / Flask
+        caption: sept. 2026, Le Mans
+        description: |
+          Refonte de 3 logiciels métier dans le cadre d'une modernisation de l'IT de l'entreprise.
+      - layout: left
+        title: Groupama CM
         sub_title: Développeur full stack Python / Django / Vue.js / Docker
         caption: nov. 2025 – avr. 2026 (5 mois), Le Mans
         description: |
@@ -134,6 +140,24 @@ content:
   - title: CV Détaillé
     layout: list
     content:
+      - layout: left
+        title: m Lego
+        sub_title: Développeur full stack Python / Flask
+        caption: sept. 2026, Le Mans
+        description: |
+          **Contexte**
+          
+          Le directeur informatique de m Lego souhaite moderniser l'ensemble des logiciels internes de l'entreprise, afin de gagner en autonomie et en efficacité dans la gestion des processus internes. 
+          Dans ce cadre, la refonte de plusieurs logiciels internes devenait nécessaire pour s'émanciper de la dépendance aux anciennes technologies et améliorer l'efficacité opérationnelle.
+          
+          **Réalisations**
+          
+          - Réécriture complète en Python/Flask et déploiement de 3 logiciels: scan des OF, édition de BL et archivage des commandes.
+          - Développement accéléré par l'utilisation des outils de programmation agentique.
+          - Formation client: python, flask, gitlab, mise en production, maintenance du serveur de production
+
+          ---
+          
       - layout: left
         title: GroupamaGCM
         sub_title: Développeur full stack Python / Django / Vue.js / Docker
